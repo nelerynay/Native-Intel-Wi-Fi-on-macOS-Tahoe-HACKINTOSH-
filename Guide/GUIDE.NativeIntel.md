@@ -13,7 +13,7 @@ Before you started, make sure you do these things
 - SIP disabled on NVRAM
 
 # DISCLAIMER
-The Wi-Fi patch script is using Chinese Language, in order to run the script properly **please make sure you have translator**
+The Wi-Fi patch script is using Chinese Language, in order to run the script properly **please make sure you have a translator**
 
 other way, it might not work properly and can resulting kernel panic
 
